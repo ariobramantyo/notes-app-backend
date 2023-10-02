@@ -1,2 +1,5 @@
 node_modules
 notes-api-webserver.pem 
+.prod.env
+.env
+/migrations/
